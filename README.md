@@ -19,7 +19,7 @@
 </div>
 <h1 align="center">
     <br>
-        <img src="docs/assets/images/code-layout-pcb.png" alt="Logo atopile" title="Logo atopile" />
+        <img src="https://github.com/atopile/atopile/blob/v0.2.67/docs/assets/images/code-layout-pcb.png" alt="Logo atopile" title="Logo atopile" />
     <br>
 </h1>
 
